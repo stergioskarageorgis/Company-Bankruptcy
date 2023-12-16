@@ -2,6 +2,10 @@
 In this kernel we will use various predictive models and analysis on whether a company will go bankrupt or not. Nevertheless, we can still analyze some important aspects of the dataset and draw some conclusions.
 This project consists of two programs developed for learning purposes and personal growth. The primary objective is to gain practical experience in programming and advance our skills in python and predictive analysis.
 
+
+
+
+
 # Company Bankrupt Taiwan data set
 # Data Collection:
 Data collected from the Taiwan Economic Journal for the years 1999 to 2009.
